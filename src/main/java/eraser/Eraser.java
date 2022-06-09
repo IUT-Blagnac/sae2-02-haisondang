@@ -23,6 +23,7 @@ public class Eraser {
 			sb.append(temp1.get(i));
 		}
 		str=sb.toString();
+	    
 		return str;
     }
 }
