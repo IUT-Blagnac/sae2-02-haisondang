@@ -2,7 +2,6 @@ package eraser;
 
 public class Eraser {
     public static String erase(String str) {
-        throw new UnsupportedOperationException("Unimplemented");
         char[] temp= str.toCharArray();
 		ArrayList<Character> temp1= new ArrayList<Character>();
 	
