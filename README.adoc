@@ -155,13 +155,14 @@ WARNING: Les répertoires et fichiers existants devront être complétés et mis
 - Java v1.8
 - Microsoft office 365
 - Eclipse 2022-03
+
 === Reproductibilité
 
 - Pour reproduire mon analyse :
 . Utiliser le MS Office pour rédiger
 . Lancez Eclipse pour tester des code et mesusere temp d'exécution
 . Lancer Codacy pour évaluer la qualité
-. Accéder à replit.com pour tester des programme de C et pour mesurer la consommation des resssources
+. Accéder à replit.com pour tester des programme de C et pour mesurer la consommation des resssources de tous les programmes
 . ...
 
 === Références
