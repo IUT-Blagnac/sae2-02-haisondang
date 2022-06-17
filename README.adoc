@@ -167,8 +167,8 @@ WARNING: Les répertoires et fichiers existants devront être complétés et mis
 
 === Références
 
-- ...
-- ...
+- Replit.com
+- Codacy.com
 
 == Généralités, notation de la SAÉ et résultat du concours
 
